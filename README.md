@@ -1,6 +1,6 @@
 👋🏼 Hi, I'm Mohsine
 
-Creative front-end web developer based in Paris, passionate about creating interactive and visually captivating experiences. I use cutting-edge technologies like Three.js, GSAP, and Next.js to bring my projects to life. Always on the lookout for new challenges, I strive to push the boundaries of the web with animations, 3D effects, and innovative user interfaces.
+Full-Stack Developer with a strong Creative Front-End orientation, passionate about creating interactive and visually captivating experiences. I use advanced technologies such as Three.js, GSAP and Next.js to bring my projects to life. Always looking for new challenges, I strive to push the limits of the web with animations, 3D effects and innovative user interfaces, while also mastering the backend development to build efficient and scalable web applications.
 
 
 🔧 Technologies I Use
@@ -11,13 +11,25 @@ Three.js & WebGL
 
 GSAP (Animations)
 
-Next.js (React Framework)
+Shaders (for advanced visual effects)
+
+Next.js
 
 HTML5 & CSS3
 
 Tailwind CSS
 
-Shaders (for advanced visual effects)
+Python (Django)
+
+PHP (Laravel)
+
+SQL & MySQL
+
+NodeJs
+
+Git
+
+
 
 📬 Contact
 
