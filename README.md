@@ -1,10 +1,8 @@
-<h1 align="left">👋🏼 Hi ! I'm Mohsine Essat</h1>
+<h1 align="center">👋🏼 Hi ! I'm Mohsine Essat</h1>
 
 ###
 
-<br clear="both">
-
-<h2 align="right">A passionate full stack developer from Paris 🇫🇷</h2>
+<h2 align="center">A passionate full stack developer from Paris 🌐 </h2>
 
 ###
 
@@ -14,11 +12,11 @@
 
 <h2 align="left">About me</h2>
 
-###
 
-<h4 align="right">🔭 I’m currently working on Mova a finance app and assistante AI.<br><br>🌱  I’m currently learning about AI integration and intelligent agent development using machine learning models (TensorFlow, PyTorch, OpenAI API). My passion for robotics drives me to explore autonomous systems, combining AI, IoT, and embedded control on microcontrollers (Arduino, Raspberry Pi).<br><br>📫  How to reach me mohsineessat@gmail.com.</h4>
 
-###
+<h4 align="left">🔭 I’m currently working on Mova a finance app and assistante AI.<br><br>🌱  I’m currently learning about AI integration and intelligent agent development using machine learning models (TensorFlow, PyTorch ...). My passion for robotics drives me to explore autonomous systems, combining AI, IoT, and embedded control on microcontrollers (Arduino, Raspberry Pi).<br><br>📫  How to reach me mohsineessat@gmail.com.</h4>
+
+
 
 <h2 align="center">I code with</h2>
 
@@ -99,6 +97,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+
+###
 
 ![IMG_7663](https://github.com/user-attachments/assets/fa0fd086-83c4-4d00-8dda-baaa32230f15)
 
