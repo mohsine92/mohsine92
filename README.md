@@ -14,7 +14,7 @@
 
 
 
-<h4 align="left">🔭 I’m currently working on Mova a finance app and assistante AI.<br><br>🌱  I’m currently learning about AI integration and intelligent agent development using machine learning models (TensorFlow, PyTorch ...). My passion for robotics drives me to explore autonomous systems, combining AI, IoT, and embedded control on microcontrollers (Arduino, Raspberry Pi).<br><br>📫  How to reach me mohsineessat@gmail.com.</h4>
+<h4 align="left">🔭 I’m currently working on ByteMind a AI assistant for developer...<br><br>🌱  I’m currently learning about AI integration and intelligent agent development using machine learning models (TensorFlow, PyTorch ...). My passion for robotics drives me to explore autonomous systems, combining AI, IoT, and embedded control on microcontrollers (Arduino, Raspberry Pi).<br><br>📫  How to reach me mohsineessat@gmail.com.</h4>
 
 
 
