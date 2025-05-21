@@ -1,24 +1,12 @@
-<h1 align="center">👋🏼 Hi ! I'm Mohsine Essat</h1>
-
-###
-
-<h2 align="center">A passionate full stack developer from Paris 🌐 </h2>
-
-###
-
+<h1 align="left">Hi ! I'm Mohsine Essat</h1>
+<h2 align="left">A Fullstack Developer & Cybersecurity Engineering Apprentice</h2>
 <p align="left"></p>
 
-###
-
-<h2 align="left">About me</h2>
+<h4 align="left">🔭 I’m currently working on Axiom a AI assistant for developer.<br><br>🌱 I’m naturally a maker and endlessly curious. <br> My journey into computer science started with Three.js and WebGL, where I discovered the magic of bringing ideas to life in 3D. Since then, I’ve been on a relentless quest to push the boundaries of technology, creativity, and problem-solving. I thrive at the intersection of robotics, cybersecurity, and software development, constantly exploring how systems work—and how they can be bent to do the unexpected. Whether it’s designing interactive 3D experiences, securing digital landscapes, or building autonomous machines, I love turning ideas into reality.<br><br>📫  How to reach me mohsineessat@gmail.com.</h4>
 
 
 
-<h4 align="left">🔭 I’m currently working on Axiom a AI assistant for developer...<br><br>🌱  I’m currently learning about AI integration and intelligent agent development using machine learning models (TensorFlow, PyTorch ...). My passion for robotics drives me to explore autonomous systems, combining AI, IoT, and embedded control on microcontrollers (Arduino, Raspberry Pi).<br><br>📫  How to reach me mohsineessat@gmail.com.</h4>
-
-
-
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -41,8 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="47" alt="threejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="47" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="47" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="47" alt="css3 logo"  />
@@ -58,10 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="47" alt="opengl logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="47" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="47" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="47" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="47" alt="tailwindcss logo"  />
   <img width="12" />
@@ -92,6 +74,13 @@
 
 ###
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsine92&show_icons=true&theme=github_dark)
+
+###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsine92&hide_progress=true)
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/mohsine-essat" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -101,7 +90,6 @@
 
 ###
 
-![IMG_7663](https://github.com/user-attachments/assets/fa0fd086-83c4-4d00-8dda-baaa32230f15)
 
 ###
 
