@@ -78,9 +78,6 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsine92&hide_progress=true)
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/mohsine-essat" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -88,15 +85,9 @@
 </div>
 
 
-###
-
-
-###
-
 <br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mohsine92.mohsine92&left_color=black&right_color=dimgrey&left_text=Visitors"  />
 </div>
 
-###
