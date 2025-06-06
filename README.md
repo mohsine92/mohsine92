@@ -1,8 +1,12 @@
-<h1 align="left">Hi ! I'm Mohsine Essat</h1>
-<h2 align="left">A Fullstack Developer & Cybersecurity Engineering Apprentice</h2>
+<h2 align="left">Software Developer | Science Enthusiast | Security & Networking Apprentice</h2>
 <p align="left"></p>
 
-<h4 align="left">🔭 I’m currently working on Axiom a AI assistant for developer.<br><br>🌱 I’m naturally a maker and endlessly curious. <br> My journey into computer science started with Three.js and WebGL, where I discovered the magic of bringing ideas to life in 3D. Since then, I’ve been on a relentless quest to push the boundaries of technology, creativity, and problem-solving. I thrive at the intersection of robotics, cybersecurity, and software development, constantly exploring how systems work—and how they can be bent to do the unexpected. Whether it’s designing interactive 3D experiences, securing digital landscapes, or building autonomous machines, I love turning ideas into reality.<br><br>📫  How to reach me mohsineessat@gmail.com.</h4>
+<h4 align="left">🔭 I’m currently working on Axiom a AI assistant for developer.<br><br>
+
+🌱 Hi ! My name is Mohsine, and I am an aspiring cybersecurity engineer with a strong interest in software systems (both robotics and deep-learning) that solve real-world problems. <br><br>
+My goal: to contribute to impactful tech projects — in cybersecurity, AI, or systems engineering — that support healthcare, education, and the resilience of societies. Whether in a startup or R&D setting, I want to create technologies that make a difference.
+
+<br>📫  How to reach me mohsineessat@gmail.com.</h4>
 
 
 
@@ -75,7 +79,6 @@
 ###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsine92&show_icons=true&theme=github_dark)
-
 ###
 
 <div align="left">
