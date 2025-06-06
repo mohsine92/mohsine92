@@ -1,10 +1,10 @@
 <h2 align="left">Software Developer | Science Enthusiast | Security & Networking Apprentice</h2>
 <p align="left"></p>
 
-<h4 align="left">🔭 I’m currently working on Axiom a AI assistant for developer.<br><br>
-
 🌱 Hi ! My name is Mohsine, and I am an aspiring cybersecurity engineer with a strong interest in software systems (both robotics and deep-learning) that solve real-world problems. <br><br>
 My goal: to contribute to impactful tech projects — in cybersecurity, AI, or systems engineering — that support healthcare, education, and the resilience of societies. Whether in a startup or R&D setting, I want to create technologies that make a difference.
+
+<h4 align="left">🔭 I’m currently working on Axiom a AI assistant for developer.<br><br>
 
 <br>📫  How to reach me mohsineessat@gmail.com.</h4>
 
