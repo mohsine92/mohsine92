@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/70946e7c-c72d-45ae-9e26-3fd223d93f6c"/>
-</div>
-
-<h2 align="left">Software Developer | Science Enthusiast | Security & Networking Apprentice</h2>
+<h1 align="left">Software Developer | Science Enthusiast | Security & Networking Apprentice</h1>
 
 <p>
 🌱 Hi ! My name is Mohsine, and I am an aspiring cybersecurity engineer with a strong interest in software systems (both robotics and deep-learning) that solve real-world problems. <br><br>
@@ -94,9 +90,4 @@ My goal : to contribute to impactful tech projects — in cybersecurity, AI, or 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsine92&show_icons=true&theme=github_dark)
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohsine92.mohsine92&left_color=black&right_color=dimgrey&left_text=Visitors"  />
-</div>
 
