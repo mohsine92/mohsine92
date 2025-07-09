@@ -1,4 +1,4 @@
-<h1 align="left">Software Developer | Science Enthusiast | Security & Networking Apprentice</h1>
+<h1 align="left">Software Developer | Science Enthusiast | Security & Network Apprentice</h1>
 
 <p>
 🌱 Hi ! My name is Mohsine, and I am an aspiring cybersecurity engineer with a strong interest in software systems (both robotics and deep-learning) that solve real-world problems. <br><br>
