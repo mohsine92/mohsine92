@@ -4,21 +4,15 @@
 🌱 Hi ! My name is Mohsine, and I am an aspiring cybersecurity engineer with a strong interest in software systems (both robotics and deep-learning) that solve real-world problems. <br><br>
 My goal : to contribute to impactful tech projects — in cybersecurity, AI, or systems engineering — that support healthcare, education, and the resilience of societies. Whether in a startup or R&D setting, I want to create technologies that make a difference.
 </p>
-
-<h4 align="left">🔭 I’m currently working on Axiom a AI assistant for developer. </h4>
-
 <p>
   📫  How to reach me <a href="mailto:"mohsine.essat@gmail.com">mohsine.essat@gmail.com</a>
 </p>
-
 <div align="left">
   <a href="https://www.linkedin.com/in/mohsine-essat" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
 <br>
-
 <h2 align="left">🎛️ Tech Stack</h2>
 
 ###
