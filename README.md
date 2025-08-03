@@ -1,4 +1,4 @@
-<h1 align="left">Software Engineering | Cybersecurity-Oriented⎟Science Enthusiast</h1>
+<h1 align="left">Cybersecurity & Software Developer | Student CS @CESI | Internship Ready – 2026</h1>
 
 <p>
 🌱 Hi ! My name is Mohsine, and I am an aspiring cybersecurity engineer with a strong interest in software systems (both robotics and deep-learning) that solve real-world problems. <br><br>
@@ -41,8 +41,6 @@ My goal : to contribute to impactful tech projects — in cybersecurity, AI, or 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="47" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="47" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="47" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="47" alt="git logo"  />
   <img width="12" />
