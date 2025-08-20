@@ -1,4 +1,4 @@
-<h1 align="left">CS Student @CESI Engineering School | Internship Ready 2026</h1>
+<h1 align="left">Software Developmment Student @CESI Engineering School | Internship Ready 2026</h1>
 
 <p>
 🌱 Hi ! My name is Mohsine, and I am an aspiring cybersecurity engineer with a strong interest in software systems (both robotics and deep-learning) that solve real-world problems. <br><br>
