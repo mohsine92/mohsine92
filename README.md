@@ -1,7 +1,7 @@
 <h1 align="left">Software Developmment Student @CESI Engineering School | Internship Ready 2026</h1>
 
 <p>
-🌱 Hi ! My name is Mohsine, and I am an aspiring cybersecurity engineer with a strong interest in software systems (both robotics and deep-learning) that solve real-world problems. <br><br>
+🌱 Hi ! My name is Mohsine, and I am an aspiring engineer with a strong interest in software systems (both robotics and deep-learning) that solve real-world problems. <br><br>
 My goal is to contribute to impactful tech projects — in cybersecurity, AI, or systems engineering — that support healthcare, education, and the resilience of societies. Whether in a startup or R&D setting, I want to create technologies that make a difference.
 </p>
 <p>
