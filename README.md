@@ -1,9 +1,8 @@
 <h1 align="center">Hi ! My name is Mohsine Essat 👋🏼 </h1>
 
-I'm a Software Developmment student at CESI Engineering School in France. Driven by a deep interest in engineering and solving complex problems, my goal after graduation is to become an engineer.
-<br> <br> My goal is to contribute to impactful tech projects — in cybersecurity, AI, or systems engineering — that support healthcare, education, and the resilience of societies. Whether in a startup or R&D setting, I want to create technologies that make a difference.
+I'm computer science student at CESI School of Engineering with a deep scientific curiosity, always eager to learn new things. I love exploring complex systems, building real-world projects, and learning by doing. My goal is to become an engineer and contribute to impactful tech in cybersecurity, AI, or systems engineering. 
 
-I strongly believe in open collaboration, continuous learning, and building tech with purpose. I’m always open to exchanging ideas on cybersecurity, AI or tech for good. Let’s connect !
+I enjoy sharing ideas and am always curious to discuss topics like cybersecurity, AI, and robotics—let’s connect ! Feel free to reach out throught the mail or linkedin.
 
 
 ## Socials 🌐 :
