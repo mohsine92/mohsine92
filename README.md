@@ -1,8 +1,14 @@
 <h1 align="center">Hi ! I'm Mohsine Essat 👋🏼 </h1>
 
-I'm computer science student at CESI School of Engineering with a deep scientific curiosity, always eager to learn new things. I love exploring complex systems, building real-world projects, and learning by doing. My goal is to become an engineer and contribute to impactful tech in cybersecurity, AI, or systems engineering. 
+<p>Hi ! My name is Mohsine, and I am a computer science student at CESI School of Engineering.
 
-I enjoy sharing ideas and am always curious to discuss topics like cybersecurity, AI, and robotics—let’s connect ! Feel free to reach out throught the mail or linkedin.
+I am passionate about applying computer science to scientific research and building real-world projects that solve meaningful problems.
+My interests include systems engineering, cybersecurity, and AI — but above all, I enjoy exploring how technology can create a positive impact.
+My goal is to become an engineer and contribute to building technologies that truly make a difference.
+
+I value curiosity and believe that innovation is universal, thriving through openness, collaboration, and the exchange of ideas. I genuinely enjoy connecting and talking with people from diverse backgrounds, so please feel free to reach out via email or LinkedIn.
+</p>
+
 
 ## Technologies 💻 :
 
