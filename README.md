@@ -1,17 +1,12 @@
-<h1 align="center">Hi ! I'm Mohsine Essat 👋🏼 </h1>
+<h3 align="start">Hi👋🏼 </h3>
 
-<p>Hi ! My name is Mohsine, and I am a computer science student at CESI School of Engineering.
-
-I am passionate about applying computer science to scientific research and building real-world projects that solve meaningful problems.
-My interests include systems engineering, cybersecurity, and AI — but above all, I enjoy exploring how technology can create a positive impact.
-My goal is to become an engineer and contribute to building technologies that truly make a difference.
-
-I value curiosity and believe that innovation is universal, thriving through openness, collaboration, and the exchange of ideas. I genuinely enjoy connecting and talking with people from diverse backgrounds, so please feel free to reach out via email or LinkedIn.
+<p> My name is Mohsine, and I am a computer science student at CESI Engineering School.
+ I am passionate about applying computer science to scientific research and building real-world projects that solve meaningful problems.
+ I enjoy exploring how technology can create a positive impact. My goal is to become an engineer and contribute to building technologies that truly make a difference.
 </p>
 
 
-## Technologies 💻 :
-
+<h3>Technologies 💻 :</h3>
 <h4>Languages</h4>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -67,20 +62,15 @@ I value curiosity and believe that innovation is universal, thriving through ope
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
-
-
-
-
-
 ## Socials 🌐 :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsine-essat/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohsine.essat@gmail.com) 
 
-<!-- ## GitHub Stats 📊 :
- ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
+ ## GitHub Stats 📊 : 
+![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=mohsine92&theme=graywhite&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsine92&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
-<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsine92&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
