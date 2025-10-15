@@ -62,11 +62,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
-## Socials 🌐 :
+<h3>Socials 🌐 :</h3>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsine-essat/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohsine.essat@gmail.com) 
 
- ## GitHub Stats 📊 : 
+ <h3>GitHub Stats 📊 :</h3>
+ 
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=mohsine92&theme=graywhite&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsine92&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
