@@ -69,6 +69,40 @@
  <h3>GitHub Stats 📊 :</h3>
 
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 100 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/12/2025 13:39:02 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
