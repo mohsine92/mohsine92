@@ -68,23 +68,7 @@
 
  <h3>GitHub Stats 📊 :</h3>
 
- <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 100 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I Mostly Code in Python** 
 
 ```text
