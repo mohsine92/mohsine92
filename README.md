@@ -68,7 +68,7 @@
 
  <h3>GitHub Stats 📊 :</h3>
 
-
+<!--START_SECTION:waka-->
 **I Mostly Code in Python** 
 
 ```text
@@ -79,8 +79,6 @@ PHP                      1 repo              ██░░░░░░░░░�
 Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
@@ -90,5 +88,4 @@ Dart                     1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=mohsine92&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsine92&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
