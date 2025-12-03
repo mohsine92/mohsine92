@@ -67,6 +67,9 @@
 
 
  <h3>GitHub Stats 📊 :</h3>
+
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=mohsine92&theme=default_repocard&hide_border=false)<br/>
