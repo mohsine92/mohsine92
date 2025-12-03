@@ -69,6 +69,63 @@
  <h3>GitHub Stats 📊 :</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 104 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                71 commits          ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+🌆 Daytime                124 commits         ████████████░░░░░░░░░░░░░   47.88 % 
+🌃 Evening                46 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+🌙 Night                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Tuesday                  29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Wednesday                52 commits          █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Thursday                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Friday                   49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -79,12 +136,14 @@ PHP                      1 repo              ██░░░░░░░░░�
 Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
+
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2025 13:39:02 UTC
+ Last Updated on 03/12/2025 13:56:34 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
