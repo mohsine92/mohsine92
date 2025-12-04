@@ -77,11 +77,11 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+<!--> 📦 ? Used in GitHub's Storage -->
  > 
 > 🏆 116 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
@@ -108,7 +108,7 @@ Sunday                   19 commits          ██░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+<!--📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Paris
@@ -124,7 +124,7 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-```
+```-->
 
 **I Mostly Code in Python** 
 
