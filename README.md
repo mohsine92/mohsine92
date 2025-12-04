@@ -69,19 +69,19 @@
  <h3>GitHub Stats 📊 :</h3>
 
 <!--START_SECTION:waka-->
-<!--![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-133-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-<!-- 📦 ? Used in GitHub's Storage 
- > -->
-> 🏆 108 Contributions in the Year 2025
+> 📦 ? Used in GitHub's Storage 
  > 
-> 💼 Opted to Hire
+> 🏆 109 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
  > 
@@ -90,21 +90,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                71 commits          ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-🌆 Daytime                126 commits         ████████████░░░░░░░░░░░░░   48.28 % 
-🌃 Evening                46 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-🌙 Night                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+🌞 Morning                71 commits          ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+🌆 Daytime                127 commits         ████████████░░░░░░░░░░░░░   48.47 % 
+🌃 Evening                46 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+🌙 Night                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Tuesday                  29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Wednesday                54 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Thursday                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Friday                   49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Monday                   55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Tuesday                  29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Wednesday                55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Thursday                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Friday                   49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 ```
 
 
@@ -143,7 +143,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2025 14:46:01 UTC
+ Last Updated on 04/12/2025 00:58:23 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
