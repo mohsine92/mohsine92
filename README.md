@@ -109,7 +109,7 @@ Sunday                   19 commits          ██░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+<!--📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Paris
@@ -125,7 +125,7 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-```
+```-->
 
 **I Mostly Code in Python** 
 
