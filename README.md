@@ -69,19 +69,19 @@
  <h3>GitHub Stats 📊 :</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+<!--![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)-->
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
- > 
+<!-- 📦 ? Used in GitHub's Storage -->
+  
 > 🏆 119 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
@@ -110,7 +110,7 @@ Sunday                   19 commits          ██░░░░░░░░░�
 
 📊 **This Week I Spent My Time On** 
 
-```text
+<!--```text
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
@@ -124,7 +124,7 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-```
+```-->
 
 **I Mostly Code in Python** 
 
