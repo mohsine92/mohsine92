@@ -69,7 +69,7 @@
  <h3>GitHub Stats 📊 :</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-159-blue)
 
@@ -114,16 +114,21 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 hrs 51 mins       █████████████░░░░░░░░░░░░   52.36 % 
+TypeScript               2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+aggro-app                4 hrs 14 mins       ██████████████░░░░░░░░░░░   57.37 % 
+TPtest                   3 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.63 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -143,7 +148,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 01:00:43 UTC
+ Last Updated on 12/12/2025 01:00:25 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
