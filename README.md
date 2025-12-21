@@ -69,7 +69,7 @@
  <h3>GitHub Stats 📊 :</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -114,16 +114,22 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   13 mins             █████████████████████████   100.00 % 
+TypeScript               1 hr 33 mins        ███████████████░░░░░░░░░░   58.05 % 
+PHP                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+JavaScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-test_cesi                13 mins             █████████████████████████   100.00 % 
+TPtest                   1 hr 37 mins        ███████████████░░░░░░░░░░   60.86 % 
+test_cesi                37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+my_project_directory     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -143,7 +149,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2025 00:57:03 UTC
+ Last Updated on 21/12/2025 01:04:29 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
