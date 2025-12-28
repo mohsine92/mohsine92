@@ -114,22 +114,16 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               1 hr 33 mins        ████████████████░░░░░░░░░   63.34 % 
-PHP                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-JavaScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TPtest                   1 hr 37 mins        █████████████████░░░░░░░░   66.40 % 
-my_project_directory     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-test_cesi                24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +143,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2025 00:59:07 UTC
+ Last Updated on 28/12/2025 01:07:56 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
