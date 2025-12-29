@@ -69,7 +69,7 @@
  <h3>GitHub Stats 📊 :</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -114,16 +114,17 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 mins              ███████████████████████░░   92.28 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -143,7 +144,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2025 01:07:56 UTC
+ Last Updated on 29/12/2025 01:05:50 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
