@@ -69,8 +69,6 @@
  <h3>GitHub Stats 📊 :</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2054%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.15%20million%20lines%20of%20code-blue)
@@ -87,46 +85,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                72 commits          ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-🌆 Daytime                132 commits         ████████████░░░░░░░░░░░░░   48.00 % 
-🌃 Evening                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-🌙 Night                  22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-Tuesday                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Wednesday                56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-Thursday                 53 commits          █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Friday                   54 commits          █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Other                    3 mins              ███████████████████████░░   92.28 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-
-🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          4 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -144,7 +102,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 01:02:00 UTC
+ Last Updated on 03/01/2026 00:58:19 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
