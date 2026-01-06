@@ -69,9 +69,11 @@
  <h3>GitHub Stats 📊 :</h3>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.15%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.15%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -85,6 +87,47 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                72 commits          ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+🌆 Daytime                132 commits         ████████████░░░░░░░░░░░░░   48.00 % 
+🌃 Evening                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+🌙 Night                  22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Tuesday                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Wednesday                56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Thursday                 53 commits          █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Friday                   54 commits          █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+PHP                      25 mins             █████████████████░░░░░░░░   68.27 % 
+Twig                     12 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
+
+🔥 Editors: 
+VS Code                  37 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+symfony-course           31 mins             █████████████████████░░░░   82.68 % 
+my_project_directory     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+
+💻 Operating System: 
+Mac                      37 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -102,7 +145,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 01:08:11 UTC
+ Last Updated on 06/01/2026 01:02:10 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
