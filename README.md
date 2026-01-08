@@ -69,9 +69,9 @@
  <h3>GitHub Stats 📊 :</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -114,18 +114,22 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      25 mins             █████████████████░░░░░░░░   68.27 % 
-Twig                     12 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
+PHP                      2 hrs 10 mins       ████████████████████░░░░░   78.69 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Twig                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-symfony-course           31 mins             █████████████████████░░░░   82.68 % 
-my_project_directory     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+G2P4                     2 hrs 8 mins        ███████████████████░░░░░░   77.17 % 
+symfony-course           31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+my_project_directory     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -145,7 +149,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2026 01:02:08 UTC
+ Last Updated on 08/01/2026 01:02:10 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
