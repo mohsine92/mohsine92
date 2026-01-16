@@ -69,9 +69,9 @@
  <h3>GitHub Stats 📊 :</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -114,21 +114,22 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 55 mins        ████████████████████░░░░░   81.22 % 
-JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+PHP                      4 hrs 7 mins        ████████████████████░░░░░   81.35 % 
+Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-G2P4                     2 hrs 1 min         █████████████████████░░░░   85.52 % 
-Penalty                  20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+pdf-api                  2 hrs 41 mins       █████████████░░░░░░░░░░░░   53.17 % 
+G2P4                     2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.05 % 
+Penalty                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 💻 Operating System: 
-Mac                      2 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -148,7 +149,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2026 01:00:38 UTC
+ Last Updated on 16/01/2026 01:02:54 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
