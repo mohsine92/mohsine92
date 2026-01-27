@@ -1,8 +1,7 @@
 <h3 align="start">Hi👋🏼 </h3>
 
 <p> My name is Mohsine, and I am a computer science student at CESI Engineering School.
- I am passionate about applying computer science to scientific research and building real-world projects that solve meaningful problems.
- I enjoy exploring how technology can create a positive impact. My goal is to become an engineer and contribute to building technologies that truly make a difference.
+ Passionate about the intersection between science and Machine Learning, I strive to transform complex phenomena into exploitable numerical models. My goal is to leverage the power of algorithms and modeling to translate complex challenges into concrete, scalable, and innovative solutions.
 </p>
 
 
@@ -75,16 +74,6 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
