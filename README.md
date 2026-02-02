@@ -82,33 +82,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                88 commits          ████████░░░░░░░░░░░░░░░░░   30.14 % 
-🌆 Daytime                133 commits         ███████████░░░░░░░░░░░░░░   45.55 % 
-🌃 Evening                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-🌙 Night                  22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   58 commits          █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Tuesday                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Wednesday                57 commits          █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Thursday                 58 commits          █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Friday                   54 commits          █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -126,7 +99,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 01:23:51 UTC
+ Last Updated on 02/02/2026 01:16:02 UTC
 <!--END_SECTION:waka-->
  
 ![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
