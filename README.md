@@ -1,12 +1,11 @@
-<h3 align="start">Hi👋🏼 </h3>
+<h3 align="start">Hi 👋🏼 </h3>
 
-<p> My name is Mohsine, and I am a computer science student at CESI Engineering School.
+<p>My name is Mohsine, and I am a computer science student at CESI Engineering School.
  Passionate about the intersection between science and Machine Learning, I strive to transform complex phenomena into exploitable numerical models. My goal is to leverage the power of algorithms and modeling to translate complex challenges into concrete, scalable, and innovative solutions.
 </p>
 
-
-<h3>Technologies 💻 :</h3>
-<h4>Languages</h4>
+<h3>Skills:</h3>
+<h4>Programmation</h4>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -59,29 +58,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
-<h3>Socials 🌐 :</h3>
+<h3>Socials :</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsine-essat/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohsine.essat@gmail.com) 
 
 
- <h3>GitHub Stats 📊 :</h3>
-
+ <h3>GitHub Stats :</h3>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.22%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -102,13 +86,6 @@ Saturday                 7 commits           █░░░░░░░░░░�
 Sunday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -119,15 +96,6 @@ C++                      1 repo              █░░░░░░░░░░�
 Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/mohsine92/mohsine92/main/assets/bar_graph.png)
-
-
  Last Updated on 13/03/2026 01:13:45 UTC
 <!--END_SECTION:waka-->
  
-![](https://github-readme-stats.vercel.app/api?username=mohsine92&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)
-
