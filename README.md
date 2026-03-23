@@ -1,7 +1,7 @@
 <h3 align="start">Hi 👋🏼 </h3>
 
-<p>My name is Mohsine, and I am a computer science student at CESI Engineering School.
- Passionate about the intersection between science and Machine Learning, I strive to transform complex phenomena into exploitable numerical models. My goal is to leverage the power of algorithms and modeling to translate complex challenges into concrete, scalable, and innovative solutions.
+<p>
+Aspiring engineer at the intersection of science, mathematics, and AI, I use mathematical modeling and machine learning to turn complex real-world problems into scalable, data-driven solutions.
 </p>
 
 <h3>Skills:</h3>
