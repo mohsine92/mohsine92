@@ -66,18 +66,7 @@
 
  <h3>GitHub Stats :</h3>
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 28 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
