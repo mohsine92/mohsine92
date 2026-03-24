@@ -22,9 +22,9 @@ jobs:
           SHOW_EDITORS: false
           SHOW_OS: false
           SHOW_PROJECTS: false
-          SHOW_COMMIT: true
+          SHOW_COMMIT: false
           SHOW_LINES_OF_CODE: false
-          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_LANGUAGE_PER_REPO: true
           SHOW_LOC_CHART: false
           SHOW_DAYS_OF_WEEK: true
           SHOW_PROFILE_VIEWS: false
