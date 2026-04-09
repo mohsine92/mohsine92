@@ -52,7 +52,8 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      42 mins             ████████████████████░░░░░   79.33 % 
+Twig                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
 ```
 
 **I Mostly Code in Python** 
@@ -68,6 +69,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/04/2026 01:26:03 UTC
+ Last Updated on 09/04/2026 01:17:31 UTC
 <!--END_SECTION:waka-->
  
