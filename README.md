@@ -1,8 +1,7 @@
 <h3 align="start">Hi 👋🏼 </h3>
 
 <p>
-Aspiring engineer at the intersection of science, mathematics, and AI, I use mathematical modeling and machine learning to turn complex real-world problems into scalable, data-driven solutions.
-</p>
+Aspiring Machine Learning Engineer passionate about mathematics, software engineering, and artificial intelligence. I explore how data, algorithms, and machine learning can be combined to solve complex real-world problems and create impactful solutions.</p>
 
 
 <h3>Socials :</h3>
