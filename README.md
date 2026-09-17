@@ -1,7 +1,7 @@
 <h3 align="start">Hi 👋🏼 </h3>
 
 <p>
-Aspiring Machine Learning Engineer passionate about mathematics, software engineering, and artificial intelligence. I explore how data, algorithms, and machine learning can be combined to solve complex real-world problems and create impactful solutions.</p>
+Aspiring AI/ML Engineer passionate about mathematics, software engineering, and artificial intelligence. I explore how data, algorithms, and machine learning can be combined to solve complex real-world problems and create impactful solutions.</p>
 
 
 <h3>Socials :</h3>
