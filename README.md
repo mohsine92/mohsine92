@@ -1,7 +1,10 @@
 <h3 align="start">Hi 👋🏼 </h3>
 
 <p>
-Aspiring AI/ML Engineer passionate about mathematics, software engineering, and artificial intelligence. I explore how data, algorithms, and machine learning can be combined to solve complex real-world problems and create impactful solutions.</p>
+
+Aspiring AI Scientist passionate about mathematics, research and artificial intelligence. I explore how data, algorithms and machine learning can be combined to solve complex real-world problems and create impactful solutions.
+
+Always exploring. Open to discussing projects, research ideas, or collaborations, so feel free to message me.</p>
 
 
 <h3>Socials :</h3>
