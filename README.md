@@ -2,7 +2,7 @@
 
 <p>
 
-Aspiring AI Scientist passionate about mathematics, research and artificial intelligence. I explore how data, algorithms and machine learning can be combined to solve complex real-world problems and create impactful solutions.
+Aspiring AI Scientist passionate about mathematics, research and artificial intelligence. I am currently pursuing a Bachelor's degree in Artificial Intelligence. I explore how data, algorithms and machine learning can be combined to solve complex real-world problems and create impactful solutions.
 
 Always exploring. Open to discussing projects, research ideas, or collaborations, so feel free to message me.</p>
 
